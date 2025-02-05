@@ -14,7 +14,7 @@ Jax is a Bearded Dragon who lives in the Australian Outback.
 1. On computer
    - Move: Left Arrow, Right Arrow
    - Quit: Spacebar
-   - Restart(when game over): Left + Right Arrows simultaneously
+   - Play(at beginning)/Restart(when game over): Left + Right Arrows simultaneously
   
 2. On Tamagochi
    - Move: Left Button, Right Button
